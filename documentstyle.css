@@ -1,0 +1,544 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: verdana;
+    background: deeppink;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+
+}
+.container1{
+    background-image: url(black1.jpg);
+    max-width:42%; 
+    margin-left: 24.3em;
+    border-radius: 8px;
+    margin-top: 10px;
+    text-align: center;
+}
+.container1 h2{
+    font-size: 40px;
+    color: rgba(141, 129, 129, 0.1);
+    background-image: url(title.png);
+    background-repeat: repeat-x;
+    -webkit-background-clip:text;
+    animation: animate 15s linear infinite;
+    text-transform: uppercase;
+}
+@keyframes animate{
+    0%{
+        background-position: left 0px top 10px;
+    }
+    40%{
+        background-position: left 800px top 10px;
+    }
+}
+.container2{
+    background: white;
+    width: 75%;
+    height: auto;
+    padding: 10px;
+    margin-left: 9.8em;
+    padding-bottom: 15px;
+    
+}
+
+.container2 img{
+    float: left;
+    height: 230px;
+    width: 220px;
+    margin: 9px;
+}
+.container2 h3{
+    text-align: center;
+    color: deeppink;
+    text-transform: uppercase;
+    
+    
+}
+.container2 p{
+    text-align: justify;
+    margin: 9px;
+    padding-top: 5px;
+    color: black;
+    
+}
+
+.container3{
+    background: white;
+    width: 75%;
+    height: auto;
+    padding: 10px;
+    margin-left: 9.8em;
+    padding-bottom: 15px;
+    
+}
+
+.container3 img{
+    float: left;
+    height: 230px;
+    width: 220px;
+    margin: 9px;
+}
+.container3 h3{
+    text-align: center;
+    color: deeppink;
+    text-transform: uppercase;
+    
+    
+}
+.container3 p{
+    text-align: justify;
+    margin: 9px;
+    padding-top: 5px;
+    color: black;
+    
+}
+.container4{
+    background: white;
+    width: 75%;
+    height: auto;
+    padding: 10px;
+    margin-left: 9.8em;
+    padding-bottom: 15px;
+    
+}
+
+.container4 img{
+    float: right;
+    height: 230px;
+    width: 220px;
+    margin: 9px;
+}
+.container4 h3{
+    text-align: center;
+    color: deeppink;
+    text-transform: uppercase;
+    
+    
+}
+.container4 p{
+    text-align: justify;
+    margin: 9px;
+    padding-top: 5px;
+    color: black;
+    
+}
+.container5{
+    background: white;
+    width: 75%;
+    height: auto;
+    padding: 10px;
+    margin-left: 9.8em;
+    padding-bottom: 15px;
+    
+}
+
+.container5 img{
+    float: left;
+    height: 230px;
+    width: 220px;
+    margin: 9px;
+}
+.container5 h3{
+    text-align: center;
+    color: deeppink;
+    text-transform: uppercase; 
+}
+
+
+.container5 p{
+    text-align: justify;
+    margin: 9px;
+    padding-top: 5px;
+    color: black;
+    
+}
+
+.container6{
+    background: white;
+    width: 75%;
+    height: auto;
+    padding: 10px;
+    margin-left: 9.8em;
+    padding-bottom: 15px;
+ 
+}
+
+.container6 h3{
+    color:deeppink;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.container6 p{
+    color: black;
+    font-family: sans-serif;
+    padding: 8px;
+    text-align: justify;
+    
+}
+
+.container6 table{
+    float: left;
+    margin: 10px;
+}
+#customers td, #customers th {
+    border: 1px solid #ddd;
+    padding: 8px;
+    
+}
+#customers tr{
+    background: skyblue;
+}
+
+#customers tr:nth-child(even){background-color: #1aa4aa;}
+
+#customers tr:hover {background-color: #ddd;}
+
+#customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+}
+
+.container7{
+    background: white;
+    width: 75%;
+    height: auto;
+    padding: 10px;
+    margin-left: 9.8em;
+    padding-bottom: 15px;
+    
+}
+
+.container7 img{
+    float: right;
+    height: 230px;
+    width: 220px;
+    margin: 9px;
+}
+.container7 h3{
+    text-align: center;
+    color: deeppink;
+    text-transform: uppercase; 
+}
+
+
+.container7 p{
+    text-align: justify;
+    margin: 9px;
+    padding-top: 5px;
+    color: black;
+    
+}
+
+.container8{
+    background: white;
+    width: 75%;
+    height: auto;
+    padding: 10px;
+    margin-left: 9.8em;
+    padding-bottom: 15px;
+    
+}
+
+.container8 img{
+    float: left;
+    height: 230px;
+    width: 220px;
+    margin: 9px;
+}
+.container8 h3{
+    text-align: center;
+    color: deeppink;
+    text-transform: uppercase; 
+}
+
+
+.container8 p{
+    text-align: justify;
+    margin: 9px;
+    padding-top: 5px;
+    color: black;
+    
+}
+
+.container9{
+    background: white;
+    width: 75%;
+    height: auto;
+    padding: 10px;
+    margin-left: 9.8em;
+    padding-bottom: 15px;
+    
+}
+
+.container9 img{
+    float: right;
+    height: 230px;
+    width: 220px;
+    margin: 9px;
+}
+.container9 h3{
+    text-align: center;
+    color: deeppink;
+    text-transform: uppercase; 
+}
+
+
+.container9 p{
+    text-align: justify;
+    margin: 9px;
+    padding-top: 5px;
+    color: black;
+    
+}
+
+.container10{
+    background: white;
+    width: 75%;
+    height: auto;
+    padding: 10px;
+    margin-left: 9.8em;
+    padding-bottom: 15px;
+    
+}
+
+.container10 img{
+    float: right;
+    height: 230px;
+    width: 220px;
+    margin: 9px;
+}
+.container10 h3{
+    text-align: center;
+    color: deeppink;
+    text-transform: uppercase; 
+}
+
+
+.container10 p{
+    text-align: justify;
+    margin: 9px;
+    padding-top: 5px;
+    color: black;
+    
+}
+
+.container11{
+    background: black;
+    padding: 10px;
+    width: 75.1%;
+     margin-left: 9.8em;
+}
+
+.container11 h3{
+    text-align: center;
+    color: aliceblue;
+}
+
+@media (max-width:450px){
+    body{
+        background: #8e44ad;
+    }
+    .container1 {
+        width:100%;
+        margin:0;
+        margin-left: 6em;
+        background: none;
+        border: none;  
+    }
+    .container1 h2{
+        font-size: 15px;
+        background-image: none;
+        color: whitesmoke;
+        text-align: center;
+    }
+    .container2,.container2,.container3,.container4,.container5,.container6,.container7,.container8,.container9,.container10{
+        margin-left: 2.5px;
+        width: 95.6%;
+        padding: 5px;
+    }
+    .container2 h3,.container2 h3,.container3 h3,.container4 h3,.container5 h3,.container6 h3,.container7 h3,.container8 h3,.container9,.container10 h3{
+        text-align: center;
+        font-size: 14px;
+    }
+    .container2 img,.container2 img,.container3 img,.container4 img,.container5 img,.container6 img,.container7 img,.container8 img,.container9 img,.container10 img{
+        float: left;
+        width:80px;
+        height: 70px;
+    }
+    .container2 p,.container2 p,.container3 p,.container4 p,.container5 p,.container6 p,.container7 p,.container8 p,.container9 p,.container10 p{
+        text-align: justify;
+        font-size: 12px;
+    }
+    .container6 table{
+    float: left;
+    margin: 0;
+    margin-left: 2px; 
+    padding-top: 6px;
+        margin-right: 5px;
+}
+    #customers th {
+    padding-top: 4px;
+    padding-bottom: 4px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+    font-size: 8px;
+       
+}
+    #customers td, #customers th {
+    border: 1px solid #ddd;
+    padding: 1px;   
+}
+    #customers tr{
+        font-size: 8px;
+        padding: 1px;
+    }
+    .container11{
+    background: red;
+    padding: 4px;
+    width: 96%;
+    margin-left: 3px;
+    margin-right: 2px;
+}
+
+.container11 h3{
+    text-align: center;
+    color: aliceblue;
+    font-size: 15px;
+}
+}
+@media(min-width:451px) and (max-width:540px){
+    body{
+        background: #2980b9;
+    }
+}
+
+@media (min-width:541px) and (max-width:768px){
+    body{
+        background:#27ae60;
+    }
+    .container2,.container2,.container3,.container4,.container5,.container6,.container7,.container8,.container9,.container10{
+        margin-left: 4px;
+        width: 97.5%;
+        padding: 5px;
+    }
+    .container2 h3,.container2 h3,.container3 h3,.container4 h3,.container5 h3,.container6 h3,.container7 h3,.container8 h3,.container9,.container10 h3{
+        text-align: center;
+        font-size: 16px;
+    }
+    .container2 img,.container2 img,.container3 img,.container4 img,.container5 img,.container6 img,.container7 img,.container8 img,.container9 img,.container10 img{
+        float: left;
+        width:100px;
+        height: 90px;
+    }
+     .container2 p,.container2 p,.container3 p,.container4 p,.container5 p,.container6 p,.container7 p,.container8 p,.container9 p,.container10 p{
+        text-align: justify;
+        font-size: 12px;
+    }
+    .container6 table{
+    float: left;
+    margin: 0;
+    margin-left: 8px;
+    margin-right: 5px;
+    padding-top: 6px;
+}
+    .container11{
+    background: black;
+    padding: 4px;
+    width: 98%;
+    margin-left: 4px;
+    
+}
+
+.container11 h3{
+    text-align: center;
+    color: aliceblue;
+    font-size: 15px;
+}
+    .container1{
+    background-image: url(black1.jpg);
+    max-width:60%; 
+    margin-left: 9.4em;
+    border-radius: 8px;
+    margin-top: 10px;
+    text-align: center;
+}
+.container1 h2{
+    font-size: 32px;
+    color: rgba(141, 129, 129, 0.1);
+    background-image: url(title.png);
+    background-repeat: repeat-x;
+    -webkit-background-clip:text;
+    animation: animate 15s linear infinite;
+    text-transform: uppercase;
+}
+}
+
+@media (min-width:769px) and (max-width:1024px){
+    body{
+        background:#16a085;
+    }
+    .container2,.container2,.container3,.container4,.container5,.container6,.container7,.container8,.container9,.container10{
+        margin-left: 2.9em;
+        width: 90%;
+        padding: 5px;
+    }
+    .container2 h3,.container2 h3,.container3 h3,.container4 h3,.container5 h3,.container6 h3,.container7 h3,.container8 h3,.container9,.container10 h3{
+        text-align: center;
+        font-size: 16px;
+    }
+    .container2 img,.container2 img,.container3 img,.container4 img,.container5 img,.container6 img,.container7 img,.container8 img,.container9 img,.container10 img{
+        float: left;
+        width:100px;
+        height: 90px;
+    }
+     .container2 p,.container2 p,.container3 p,.container4 p,.container5 p,.container6 p,.container7 p,.container8 p,.container9 p,.container10 p{
+        text-align: justify;
+        font-size: 12px;
+    }
+    .container6 table{
+    float: left;
+    margin: 0;
+    margin-left: 8px;
+    margin-right: 5px;
+    margin-top: 8px;
+}
+    .container11{
+    background: red;
+    padding: 4px;
+    width: 90.6%;
+    margin-left: 2.8em;
+    margin-right: 2px;
+}
+
+.container11 h3{
+    text-align: center;
+    color: aliceblue;
+    font-size: 15px;
+}
+    .container1{
+    background-image: url(black1.jpg);
+    max-width:50%; 
+    margin-left: 16em;
+    border-radius: 8px;
+    margin-top: 10px;
+    text-align: center;
+}
+.container1 h2{
+    font-size: 32px;
+    color: rgba(141, 129, 129, 0.1);
+    background-image: url(title.png);
+    background-repeat: repeat-x;
+    -webkit-background-clip:text;
+    animation: animate 15s linear infinite;
+    text-transform: uppercase;
+}
+}
+
+
